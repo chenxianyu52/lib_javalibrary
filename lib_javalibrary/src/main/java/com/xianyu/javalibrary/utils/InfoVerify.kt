@@ -2,13 +2,7 @@ package com.xianyu.javalibrary.utils
 
 import java.util.regex.Pattern
 
-/**
- * Description: <ToastUtil><br>
- * Author: mxdl<br>
- * Date: 2018/6/11<br>
- * Version: V1.0.0<br>
- * Update: <br>
-</ToastUtil> */
+/** Description: <校验工具类>*/
 object InfoVerify {
     /**
      * 校验邮箱

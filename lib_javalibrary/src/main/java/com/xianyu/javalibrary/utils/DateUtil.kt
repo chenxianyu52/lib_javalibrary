@@ -6,13 +6,7 @@ import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Date
 
-/**
- * Description: <DateUtil><br>
- * Author: mxdl<br>
- * Date: 2018/6/11<br>
- * Version: V1.0.0<br>
- * Update: <br>
-</DateUtil> */
+/**Description: <日期工具类>*/
 object DateUtil {
     /**
      * 获取当前时间的位置：一天24小时以半小时为单位划分为48个单元格

@@ -2,13 +2,7 @@ package com.xianyu.javalibrary.utils
 
 import java.util.regex.Pattern
 
-/**
- * Description: <FileUtil><br>
- * Author:      mxdl<br>
- * Date:        2018/7/13<br>
- * Version:     V1.0.0<br>
- * Update:     <br>
-</FileUtil> */
+/** Description: <文件工具类>*/
 object FileUtil {
     fun isImageFile(url: String): Boolean {
         if (TextUtils.isEmpty(url)) {

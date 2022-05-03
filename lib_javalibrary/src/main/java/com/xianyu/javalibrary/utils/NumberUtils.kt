@@ -2,13 +2,7 @@ package com.xianyu.javalibrary.utils
 
 import java.math.BigDecimal
 
-/**
- * Description: <数字格式化工具类><br>
- * Author:      mxdl<br>
- * Date:        2018/12/17<br>
- * Version:     V1.0.0<br>
- * Update:     <br>
-</数字格式化工具类> */
+/**Description: <数字格式化工具类> */
 object NumberUtils {
     /**
      * 格式化为指定位小数的数字,返回未使用科学计数法表示的具有指定位数的字符串。
