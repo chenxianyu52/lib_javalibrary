@@ -36,6 +36,6 @@ jobs:
           # 主题
           subject: 'this is email subject'
           # Use html file prefix [file://]，使用HTML文件，已[file://]开头
-          html: file://./path/result.html
+          html: '<p>this is content</p>'
           # Or use html script，或者使用HTML代码片段
           # html: '<p>this is content</p>'
