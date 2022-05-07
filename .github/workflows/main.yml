@@ -30,7 +30,7 @@ jobs:
           # 是否开启SSL
           secure: true
           # 发送者
-          from: 'Your Name <youremail@gmail.com>'
+          from: 380286681@qq.com
           # 收件人
           to: 380286681@qq.com
           # 主题
