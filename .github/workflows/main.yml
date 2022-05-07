@@ -36,6 +36,6 @@ jobs:
           # 主题
           subject: 'this is email subject'
           # Use html file prefix [file://]，使用HTML文件，已[file://]开头
-          html: '<p>this is content</p>'
+          html: file://lib_javalibrary/build/reports/tests/test/index.html
           # Or use html script，或者使用HTML代码片段
           # html: '<p>this is content</p>'
